@@ -1,4 +1,4 @@
-# DATA 266 Lab 2 - team ## (Part 1: Multimodal RAG)
+# DATA 266 Lab 2 - team #26 (Part 1: Multimodal RAG)
 
 Hosted models used: **none** (everything runs locally). Local models: `Qwen/Qwen2.5-VL-7B-Instruct` (4-bit, answers + figure reading),
 `BAAI/bge-small-en-v1.5` (dense embeddings). Parts 2 and 3 are not in this folder yet.
