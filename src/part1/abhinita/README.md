@@ -17,7 +17,7 @@ golden/golden_set.csv     YOUR 25 questions go here (header only for now)
 data/                     competition files (not needed on Kaggle: auto-detected in /kaggle/input)
 ```
 
-## Run on Colab (A100 or T4)
+## Run on Colab (A100 or RTX 4070)
 1. Runtime > Change runtime type > GPU. Upload/clone this repo to `/content/data266-lab2-team` (private repo: clone with a token).
 2. Open `notebooks/p1_rag.ipynb`, Restart & Run All. Cell 7 writes **`submission.csv`** (download it from the file browser) and prints format problems.
 3. On an A100 the default keeps a **16 GB cap** (`CAP_GPU_16GB=1`) so what runs here also runs on the Kaggle T4 used for grading.
