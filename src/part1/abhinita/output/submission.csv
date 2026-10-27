@@ -1,0 +1,41 @@
+id,conversation_id,question_id,answer,figure_references,citations,status
+1,C001,Q001,The failure of Lehman Brothers in September 2008.,NONE,DOC1:p1,answered
+2,C002,Q002,"We should worry about rising unemployment rates because it impacts the welfare of the unemployed, indicates inefficient resource utilization, and increases the duration of unemployment, making it more painful.",NONE,"DOC1:p24,DOC1:p25",answered
+3,C003,Q003,"Economists measure economic growth by calculating real GDP, which adjusts for price changes.",NONE,DOC1:p19,answered
+4,C004,Q004,"The world economy experienced a significant downturn during the 2009 recession, with a drop in the annual average world output growth rate to 0.1%.",NONE,DOC1:p1,answered
+5,C005,Q005,The U.S. unemployment rate increased dramatically after the 2008 crisis.,NONE,DOC1:p5,answered
+6,C006,Q006,"Before the crisis, China's economy grew at an average rate of 9.8% annually. During the crisis years (2008-2012), the growth rates fluctuated between 9.2% and 10.3%, ending at 9.0% in 2012.",Table 1-4,"DOC1:Table 1-4,DOC1:p11",answered
+7,C007,Q007,The 2008 crisis tanked stock markets everywhere.,Figure 1-1,"DOC1:Figure 1-1,DOC1:p2",answered
+8,C008,Q008,"No, fast economic growth does not always mean fewer people out of work in the U.S.",NONE,DOC1:p29,answered
+9,C009,Q009,"No, consumer prices and overall economic prices are not always in sync in the U.S.",NONE,DOC1:p27,answered
+10,C010,Q010,"Europe struggled with jobs before the crisis due to high unemployment, which was around 9% in 2000. After the crisis, unemployment rose sharply, peaking at approximately 10% in 2009 and 2010.",Figure 1-2,"DOC1:Figure 1-2,DOC1:p3",answered
+11,C011,Q011,China's output growth rate was 9.6% in 2008.,Table 1-4,"DOC1:Table 1-4,DOC1:p11",answered
+12,C012,Q012,"Mortgage-backed securities were repackaged and sold to other institutions, contributing to the financial crisis due to valuation difficulties and lack of transparency.",NONE,DOC1:p1,answered
+13,C013,Q013,Consumption decreases.,NONE,DOC1:p2,answered
+14,C014,Q014,A recession is a period of negative GDP growth lasting at least two consecutive quarters.,NONE,DOC1:p21,answered
+15,C015,Q015,Emerging economies grew faster.,Table 1-1,"DOC1:Table 1-1,DOC1:p1",answered
+16,C016,Q016,9.9%,Figure A-2,"DOC2:Figure A-2,DOC2:p4",answered
+17,C017,Q017,11.4%,Figure A-3,"DOC2:Figure A-3,DOC2:p4",answered
+18,C018,Q018,0.45,Figure A-4,"DOC2:Figure A-4,DOC2:p5",answered
+19,C019,Q019,1.57,Figure A-5,"DOC2:Figure A-5,DOC2:p5",answered
+20,C020,Q020,Austria,"Figure A-6,Figure A-7","DOC2:Figure A-6,DOC2:Figure A-7,DOC2:p6",answered
+21,C021,Q021,4.5%,Figure B-5 (corrected),"DOC3:Figure B-5 (corrected),DOC3:p6",answered
+22,C022,Q022,2.1%,Figure B-4,"DOC3:Figure B-4,DOC3:p4",answered
+23,C023,Q023,-1.8%,Table A-1,"DOC2:Table A-1,DOC2:p2",answered
+24,C024,Q024,"The predicted change in unemployment for 2012 using Okun's law is 0.35 percentage points, while the actual change was 8.1%",Figure B-2,"DOC3:Figure B-2,DOC3:p3",session_override
+25,C025,Q025,9.8%,Table B-2,"DOC3:Table B-2,DOC3:p5",answered
+26,C026,Q026,9.0%,Table 1-4,"DOC1:Table 1-4,DOC1:p11",answered
+27,C027,Q027,3.0%,Table 1-2,"DOC1:Table 1-2,DOC1:p5",answered
+28,C028,Q028,Not Found,NONE,NONE,not_found
+29,C029,Q029,China's economy did not contract in 2009; it experienced growth.,NONE,NONE,not_found
+30,C030,Q030,"September 15, 2008",NONE,DOC1:p1,answered
+31,C031,Q031,9.9%,"Figure A-7,Table A-2","DOC2:Figure A-7,DOC2:Table A-2,DOC2:p6,DOC2:p3",answered
+32,C032,Q032,1.7%,Table A-3,"DOC2:Table A-3,DOC2:p7",answered
+33,C032,Q033,-4.1%,Table A-3,"DOC2:Table A-3,DOC2:p7",answered
+34,C032,Q034,Spending was larger by 4.1%.,Table A-3,"DOC2:Table A-3,DOC2:p7",answered
+35,C033,Q035,-5.9%,NONE,"DOC1:p7,DOC2:p1",session_override
+36,C033,Q036,-2.3%,Table 1-1,"DOC1:Table 1-1,DOC1:p1",answered
+37,C033,Q037,-2.3%,NONE,DOC1:p7,session_override
+38,C034,Q038,-4.2%,Table 1-3,"DOC1:Table 1-3,DOC1:p7",answered
+39,C035,Q039,China's output growth in 2014 was lower than the 2013 outturn.,Table A-2,"DOC2:Table A-2,DOC2:p3",session_override
+40,C035,Q040,"Yes, the 2014 figure is documented in DOC2:Figure A-3.",NONE,"DOC2:p3,DOC2:p3",session_override
