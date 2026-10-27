@@ -1,0 +1,13 @@
+# Pinned for Colab/Kaggle (torch + numpy + pandas come preinstalled there - do not reinstall them).
+# NOTE: these pins were written without internet access to PyPI. After your first successful Colab run,
+# execute `pip freeze | grep -i -E "transformers|accelerate|bitsandbytes|sentence-transformers|chromadb|pdfplumber|pillow"`
+# and replace the lines below with the exact versions it prints.
+transformers==4.49.0
+accelerate==1.3.0
+bitsandbytes==0.45.2
+sentence-transformers==3.4.1
+chromadb==0.6.3
+pdfplumber==0.11.5
+pillow>=10.0
+pandas
+numpy
