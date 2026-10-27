@@ -1,1 +1,1 @@
-id,conversation_id,turn,question,category,gold_answer,gold_status,gold_sources
+id,conversation_id,turn,question,gold_answer,gold_status,gold_sources
